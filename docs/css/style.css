@@ -500,30 +500,6 @@ section {
   display: none;
 }
 
-/* Footer */
-
-.site-footer {
-  border-top: 1px solid var(--border);
-  padding: 2.5rem 0;
-  color: var(--text-faint);
-  font-size: 0.88rem;
-}
-
-.site-footer .container {
-  display: flex;
-  justify-content: space-between;
-  gap: 1rem;
-  flex-wrap: wrap;
-}
-
-.site-footer a {
-  color: var(--text-dim);
-}
-
-.site-footer a:hover {
-  color: var(--accent);
-}
-
 @media (max-width: 760px) {
   .featured-card {
     grid-template-columns: 1fr;

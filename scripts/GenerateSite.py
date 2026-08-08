@@ -435,17 +435,6 @@ page = f'''<!DOCTYPE html>
     </div>
   </section>
 
-  <footer class="site-footer">
-    <div class="container">
-      <div>Made by Verz.</div>
-      <div>
-        <a href="https://www.curseforge.com/members/verz/projects" target="_blank" rel="noopener">CurseForge</a>
-        &middot;
-        <a href="https://github.com/Verubato" target="_blank" rel="noopener">GitHub</a>
-      </div>
-    </div>
-  </footer>
-
   <script src="js/main.js"></script>
 </body>
 </html>
