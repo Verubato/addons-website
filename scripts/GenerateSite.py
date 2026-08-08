@@ -364,9 +364,21 @@ page = f'''<!DOCTYPE html>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Verz Addons &ndash; Lightweight World of Warcraft Addons</title>
   <meta name="description" content="{len(ADDONS)} World of Warcraft addons by Verz: FrameSort, MiniAuras, the Mini suite and more. Lightweight, focused addons for PvP, unit frames and UI cleanup.">
+  <meta name="theme-color" content="#0f1012">
+  <link rel="canonical" href="https://verzaddons.com/">
   <meta property="og:title" content="Verz Addons &ndash; Lightweight World of Warcraft Addons">
-  <meta property="og:description" content="{len(ADDONS)} WoW addons: FrameSort, MiniAuras, the Mini suite and more.">
+  <meta property="og:description" content="{len(ADDONS)} WoW addons: FrameSort, MiniAuras, the Mini suite and more. Lightweight, focused addons for PvP, unit frames and UI cleanup.">
   <meta property="og:type" content="website">
+  <meta property="og:url" content="https://verzaddons.com/">
+  <meta property="og:site_name" content="Verz Addons">
+  <meta property="og:image" content="https://verzaddons.com/assets/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Verz Addons: lightweight addons for World of Warcraft">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Verz Addons &ndash; Lightweight World of Warcraft Addons">
+  <meta name="twitter:description" content="{len(ADDONS)} WoW addons: FrameSort, MiniAuras, the Mini suite and more.">
+  <meta name="twitter:image" content="https://verzaddons.com/assets/og-image.png">
   <link rel="icon" type="image/svg+xml" href="assets/logo.svg">
   <link rel="stylesheet" href="css/style.css">
 </head>
