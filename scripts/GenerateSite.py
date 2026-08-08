@@ -390,6 +390,7 @@ page = f'''<!DOCTYPE html>
       <nav>
         <a href="#featured">Featured</a>
         <a href="#addons">All Addons</a>
+        <a class="hide-mobile" href="https://www.curseforge.com/members/verz/projects" target="_blank" rel="noopener">CurseForge</a>
         <a class="hide-mobile" href="https://github.com/Verubato" target="_blank" rel="noopener">GitHub</a>
       </nav>
     </div>
@@ -404,6 +405,7 @@ page = f'''<!DOCTYPE html>
     </div>
     <div class="actions">
       <a class="btn primary" href="#addons">Browse the addons</a>
+      <a class="btn" href="https://www.curseforge.com/members/verz/projects" target="_blank" rel="noopener">CurseForge</a>
       <a class="btn" href="https://github.com/Verubato" target="_blank" rel="noopener">GitHub</a>
     </div>
   </section>
@@ -436,7 +438,11 @@ page = f'''<!DOCTYPE html>
   <footer class="site-footer">
     <div class="container">
       <div>Made by Verz.</div>
-      <div><a href="https://github.com/Verubato" target="_blank" rel="noopener">GitHub</a></div>
+      <div>
+        <a href="https://www.curseforge.com/members/verz/projects" target="_blank" rel="noopener">CurseForge</a>
+        &middot;
+        <a href="https://github.com/Verubato" target="_blank" rel="noopener">GitHub</a>
+      </div>
     </div>
   </footer>
 
